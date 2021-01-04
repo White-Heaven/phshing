@@ -7,9 +7,9 @@ Hacking
 * `apt update`
 * `apt upgrade`
 * `pkg install git`
-* `git clone 
-* `cd 
-* `bash install.sh`
+* `git clone https://github.com/White-Heaven/phshing.git
+* `cd phshing
+
 * `bash smf.sh`
 
 
